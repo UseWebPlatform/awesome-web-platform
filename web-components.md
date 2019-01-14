@@ -7,6 +7,8 @@
 ## Components
 
 - [\<bg-sound\>](https://github.com/feross/bg-sound) - Play MIDI files in a browser with a simple Web Component, emulating \<bgsound\>.
+- [\<file-drop\>](https://github.com/GoogleChromeLabs/file-drop) - A simple file drag and drop custom-element.
+- [\<pinch-zoom\>](https://github.com/GoogleChromeLabs/pinch-zoom) - A web component for pinch zooming DOM elements.
 - [\<scary-cube\>](https://github.com/Scarygami/scary-cube)
 - [\<scary-stopwatch\>](https://github.com/Scarygami/scary-stopwatch)
 - [\<toggle-fullscreen\>](https://github.com/GoogleChromeLabs/web-a-skeb/blob/master/src/toggle-fullscreen.js)
