@@ -206,6 +206,14 @@ function onNavOpenClick () {
 ```
 [source](https://developers.google.com/web/updates/2015/08/using-requestidlecallback#using_requestidlecallback_for_sending_analytics_data)
 
+### Prefetching for subsequent pages
+
+- https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9
+
+## Safari
+
+- https://stackoverflow.com/questions/2593139/ipad-web-app-detect-virtual-keyboard-using-javascript-in-safari
+
 ## Time
 
 ```js
