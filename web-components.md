@@ -27,6 +27,7 @@
 - [j-elements](https://github.com/jouni/j-elements) - Proof-of-concept helpers and prototype web components.
 - [time-elements](https://github.com/github/time-elements) - Web component extensions to the standard \<time\> element.
 - [SAP UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
+- [web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components doc.
 
 ### Based on LitElement
 
