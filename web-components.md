@@ -2,12 +2,17 @@
 
 - [Web components: from zero to hero](https://github.com/thepassle/webcomponents-from-zero-to-hero)
 - [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4) - And, how it compares to React as well as Vue.
+- [Declarative Reactive Web Components with Justin Fagnani](https://www.youtube.com/watch?v=9FB0GSOAESo)
+- https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70
+- https://dev.to/westbrook/why-would-anyone-use-constructible-stylesheets-anyways-19ng
 
 ## Components
 
 - [\<bg-sound\>](https://github.com/feross/bg-sound) - Play MIDI files in a browser with a simple Web Component, emulating \<bgsound\>.
+- [\<dark-mode-toggle\>](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Dark Mode toggle.
 - [\<file-drop\>](https://github.com/GoogleChromeLabs/file-drop) - A simple file drag and drop custom-element.
 - [\<pinch-zoom\>](https://github.com/GoogleChromeLabs/pinch-zoom) - A web component for pinch zooming DOM elements.
+- https://github.com/ProgressiveWebComponents/pwa-install
 - [\<scary-cube\>](https://github.com/Scarygami/scary-cube)
 - [\<scary-stopwatch\>](https://github.com/Scarygami/scary-stopwatch)
 - [\<toggle-fullscreen\>](https://github.com/GoogleChromeLabs/web-a-skeb/blob/master/src/toggle-fullscreen.js)
@@ -28,13 +33,17 @@
 - [time-elements](https://github.com/github/time-elements) - Web component extensions to the standard \<time\> element.
 - [SAP UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
 - [web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components doc.
+- https://www.sencha.com/blog/extwebcomponents-early-access-is-now-available/
 
 ### Based on LitElement
 
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements)
+- [carbon-custom-elements](https://github.com/carbon-design-system/carbon-custom-elements) - IBM Carbon Design System variant on top of Web Components.
+- https://github.com/CleverCloud/clever-components
 - [Creatability Accessible Web Components](https://github.com/googlecreativelab/creatability-components)
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components)
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
+- [mega-material](https://github.com/CaptainCodeman/mega-material) - Making Elements Great Again, Material Style!
 - [Vaadin components](https://github.com/vaadin/vaadin) - Evolving set of high-quality web components for building business web applications.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 
@@ -59,6 +68,16 @@
     - [apollo-mutation-mixin.test.js](https://github.com/apollo-elements/apollo-elements/blob/master/packages/mixins/apollo-mutation-mixin.test.js)
 - [Web Component Factory](https://github.com/elmsln/wcfactory)
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next)
+
+## Tools
+
+- https://www.pika.dev/cdn
+- https://orison.alexlockhart.me/blog/article/static-sites-are-not-so-static.html
+
+## Libs
+
+- https://github.com/ruphin/auto-pass
+- https://stackoverflow.com/questions/37445468/paper-input-autocomplete-fails-to-fill/48687882#48687882
 
 ## Other Resources
 
